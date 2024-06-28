@@ -1,0 +1,24 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-groundcontrolsystem-dev-42174-authRole",
+      "UnauthRoleArn": "arn:aws:iam::211125647735:role/amplify-groundcontrolsystem-dev-42174-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::211125647735:role/amplify-groundcontrolsystem-dev-42174-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-groundcontrolsystem-dev-42174-deployment",
+      "UnauthRoleName": "amplify-groundcontrolsystem-dev-42174-unauthRole",
+      "StackName": "amplify-groundcontrolsystem-dev-42174",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:211125647735:stack/amplify-groundcontrolsystem-dev-42174/cc9b6d10-3454-11ef-804c-0aeee7409ced",
+      "AmplifyAppId": "d3n7b1tz0f5kle"
+    },
+    "categories": {
+      "auth": {
+        "groundcontrolsysteme0e09bd2": {}
+      },
+      "geo": {
+        "mapd3cdbafe": {},
+        "mapab6f26bd": {}
+      }
+    }
+  }
+}
